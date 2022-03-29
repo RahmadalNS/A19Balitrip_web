@@ -6,3 +6,5 @@ Anggota:
 -Nurhawa Nizar Siagian
 -Rahmadal Nanda Saputra
 -Rama Auliya Hasanal Kanigara
+
+https://rahmadalns.github.io/Web_A19FEDdigitalent22/
